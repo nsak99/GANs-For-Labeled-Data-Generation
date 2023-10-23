@@ -6,3 +6,5 @@ Repo contains:
 - gan_model.ipynb which is the main file where GAN is implemented,
 - classifiaction.ipynb which is a file that contains the implementation of a classifier used for the evaluation of generated images,
 - plots.ipynb which is a small additional file where some plots for paper were generated.
+
+Additional information: GAN was train using Google Colab paid version with V100 GPU.
